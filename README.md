@@ -19,6 +19,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mRn0b0dye&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=mRn0b0dye&icon=5&color=5)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=mRn0b0dye&icon=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
